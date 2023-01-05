@@ -1,0 +1,8 @@
+.bold {font-weight: 800;}
+#image {max-width: 100%; height: auto;}
+.img-div {display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin: 10 15 0;}
+.container {background-color: #bfbfbf;}
+h1, h2, .p1 {text-align: center}
+h2 {font-size: 18px}
+.p2, li {padding: 5px 0; margin: 0 auto; max-width: 480}
+.p2 {font-style: italic}
